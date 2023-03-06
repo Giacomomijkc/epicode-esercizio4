@@ -1,45 +1,10 @@
-# epicode-esercizio3
-Amazon Homepage
+Esercizio 4.a
+Il tuo compito è migliorare la tua pagina Amazon.
 
-Il tuo compito sarà ricreare la pagina Amazon fornita come allegato.
+Finisci il compito precedente se necessario, e successivamente aggiungi la nuova sezione allegata.
 
-Troverai tutti gli asset necessari in una cartella chiamata "assets".
+Negli allegati puoi vedere anche il risultato finale.
 
-L'obiettivo è ricreare la pagina il più simile possibile all'immagine allegata.
-
-Suggerimenti:
-
-1. Font utilizzati nel mockup: Arial, Helvetica, sans-serif.
-
-2. Puoi usare delle estensioni del browser per controllare i codici colore del mockup, ad esempio ColorZilla
-
-3. Analizza il mockup e stabilisci alcune classi comuni con stili riutilizzabili
-
-Ad esempio:
-
-.text-center {
-text-align:center;
-width:100%;
-}
-
-.bg-dark {
-color: #eaeded;
-background-color:#222f3e;
-}
-
-.bg-yellow {
-color: #eaeded;
-background-color:#f56600;
-}
-
-.py-1 {
-padding: 1rem 0;
-}
-
-<div class="bg-yellow text-center py-1" >
-     <span>Shop All Holiday Gift Cards</span>
-</div>
-
- <div class="bg-dark text-center py-1">
-    <span>Back to top</span>
- </div>
+Esercizio 4.b
+Utilizza il file HTML fornito negli allegati come punto di partenza.
+Replica quest'immagine posizionando i riquadri come mostrato, utilizzando position: absolute.
